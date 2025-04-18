@@ -279,6 +279,11 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="Terrasoft.GoogleServices">
+			<HintPath>$(CoreLibPath)/Terrasoft.GoogleServices.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 		<Reference Include="Terrasoft.Messaging.Common.Standard">
 			<HintPath>$(CoreLibPath)/Terrasoft.Messaging.Common.Standard.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
